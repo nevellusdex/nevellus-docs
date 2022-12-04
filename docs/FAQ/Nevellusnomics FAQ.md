@@ -21,7 +21,3 @@ _0.05% destined to the dev fund wallet to cost fastest deployments as well the d
 
 - After the **initial phase** the fee breakdown is:  
 0.25% for LPs + 0.05% for sNVLS holders.
-
-### When will the $NVLS rewards end?
-
-The 250M cap will be reached in November 2023.

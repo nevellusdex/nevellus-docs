@@ -72,6 +72,11 @@ const config = {
         },
         items: [
           {
+            to: '/',
+            label: 'Docs Home',
+            position: 'left',
+          },
+          {
             to: '/docs/Developers/Overview',
             label: 'Contracts',
             position: 'left',
@@ -165,7 +170,7 @@ const config = {
                 href: 'https://discord.gg/vBeZa6EkyC',
               },
               {
-                label: 'Twitter',
+                label: 'Twitter (off)',
                 href: 'https://twitter.com/nevellus',
               },
               {
