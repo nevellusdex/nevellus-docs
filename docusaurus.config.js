@@ -68,6 +68,7 @@ const config = {
         logo: {
           alt: 'Nevellus Logo',
           src: 'img/nevelluslogo.png',
+          href:'https://nevellus.com',
         },
         items: [
           {
