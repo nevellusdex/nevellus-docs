@@ -30,7 +30,7 @@ sidebar_position: 2
 
 [Medium](https://medium.com/nevellus)*
 
-[Twitter](https://twitter.com/nevellus)*
+[Twitter](https://twitter.com/NevellusDex)*
 
 **Check your portfolio and manage your investments:**
 

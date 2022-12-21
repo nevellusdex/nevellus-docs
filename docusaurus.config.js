@@ -171,7 +171,7 @@ const config = {
               },
               {
                 label: 'Twitter (off)',
-                href: 'https://twitter.com/nevellus',
+                href: 'https://twitter.com/NevellusDex',
               },
               {
                 label: 'Blog (off)',
