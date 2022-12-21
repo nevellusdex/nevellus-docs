@@ -170,7 +170,7 @@ const config = {
                 href: 'https://discord.gg/vBeZa6EkyC',
               },
               {
-                label: 'Twitter (off)',
+                label: 'Twitter',
                 href: 'https://twitter.com/NevellusDex',
               },
               {
