@@ -204,7 +204,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Nevellus Docs`}
+      title={`Docs`}
       description="Official Documentation for the Nevellus platform"
     >
       <Container>
